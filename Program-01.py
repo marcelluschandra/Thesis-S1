@@ -1,4 +1,4 @@
-% Program Frame Extraction
+% Frame Extraction Program
 import cv2
 import os
 
