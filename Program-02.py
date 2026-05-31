@@ -1,4 +1,5 @@
-% Program Dataset Seperation
+% Program 02
+% Dataset Seperation Program
 import os
 import random
 import shutil
