@@ -1,4 +1,5 @@
-% Program Training Model
+% Program 03
+% Training Model Program
 import os, json, random
 from pathlib import Path
 
